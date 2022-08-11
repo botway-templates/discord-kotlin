@@ -6,4 +6,4 @@
 
 - [**Kotlin**](https://kotlinlang.org)
 - [**Kord**](https://github.com/kordlib/kord)
-- [**Botlin**](https://github.com/botwayorg/discord-kotlin/blob/main/app/src/main/kotlin/botway/Botway.kt)
+- [**Botlin**](https://github.com/abdfnx/botway/blob/main/packages/botlin/main.kt)
