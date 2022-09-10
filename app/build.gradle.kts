@@ -22,7 +22,7 @@ dependencies {
 
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit")
     
-    implementation("dev.kord:kord-core:0.8.0-M15")
+    implementation("dev.kord:kord-core:395-lazy-intents-SNAPSHOT")
 
     implementation("net.mamoe.yamlkt:yamlkt:0.10.2")
 
