@@ -24,7 +24,7 @@ dependencies {
     
     implementation("dev.kord:kord-core:0.8.0-M15")
 
-    implementation("net.mamoe.yamlkt:yamlkt:0.10.2")
+    implementation("net.mamoe.yamlkt:yamlkt:0.12.0")
 
     implementation("com.beust:klaxon:5.5")
 }
