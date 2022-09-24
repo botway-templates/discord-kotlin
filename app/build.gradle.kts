@@ -24,7 +24,7 @@ dependencies {
     
     implementation("dev.kord:kord-core:395-lazy-intents-SNAPSHOT")
 
-    implementation("net.mamoe.yamlkt:yamlkt:0.10.2")
+    implementation("net.mamoe.yamlkt:yamlkt:0.12.0")
 
     implementation("com.beust:klaxon:5.6")
 }
